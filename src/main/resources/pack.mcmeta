@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "firma_skies_core resources",
+    "pack_format": 15,
+    "forge:server_data_pack_format": 12
+  }
+}

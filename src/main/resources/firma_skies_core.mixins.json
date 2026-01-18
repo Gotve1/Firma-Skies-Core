@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.gotve.firma_skies_core.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "Firma_Skies_Core.refmap.json",
+  "mixins": [
+    "create.BoilerDataMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
