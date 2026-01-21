@@ -5,7 +5,9 @@
   "compatibilityLevel": "JAVA_17",
   "refmap": "Firma_Skies_Core.refmap.json",
   "mixins": [
-    "create.BoilerDataMixin"
+    "create.BoilerDataMixin",
+    "create.EncasedFanBlockEntityMixin",
+    "tfc.BellowsBlockEntityMixin"
   ],
   "client": [
   ],
