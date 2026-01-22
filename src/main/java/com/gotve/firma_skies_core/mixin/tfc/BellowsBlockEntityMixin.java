@@ -28,7 +28,7 @@ public abstract class BellowsBlockEntityMixin {
 
 
     // replace tfc's doPush with mine
-    @Inject(method = "doPush()V", at = @At("HEAD"), cancellable = true, remap = false)
+    @Inject(method = "doPush()V", at = @At("TAIL"), cancellable = true, remap = false)
     private void tfc$doPushEnhanced(CallbackInfo ci) {
         Level level = ((BellowsBlockEntity)(Object)this).getLevel();
         BlockPos worldPosition = ((BellowsBlockEntity)(Object)this).getBlockPos();
