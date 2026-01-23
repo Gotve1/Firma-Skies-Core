@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WW",
+    "BO"
+  ],
+  "key": {
+    "W": {
+      "item": "create:white_sail"
+    },
+    "O": {
+      "item": "tfc:metal/rod/wrought_iron"
+    },
+    "B": {
+      "item": "tfc:metal/rod/brass"
+    }
+  },
+  "result": {
+    "item": "vs_clockwork:wing",
+    "count": 4
+  }
+}

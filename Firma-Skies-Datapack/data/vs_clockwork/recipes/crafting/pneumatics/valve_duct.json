@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tfc:metal/rod/cast_iron"
+    },
+    {
+      "item": "vs_clockwork:duct"
+    }
+  ],
+  "result": {
+    "item": "vs_clockwork:valve_duct"
+  }
+}

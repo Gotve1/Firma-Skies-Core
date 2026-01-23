@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "B": {
+      "item": "tfc:metal/rod/brass"
+    },
+    "E": {
+      "item": "tfc:lens"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "O": {
+      "tag": "tfc:can_be_lit_on_torch"
+    },
+    "P": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    " G ",
+    "GEG",
+    " P ",
+    " B ",
+    " O "
+  ],
+  "result": {
+    "item": "create:wand_of_symmetry"
+  }
+}

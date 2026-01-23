@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "create:industrial_iron_block"
+    },
+    ",": {
+      "item": "tfc:metal/rod/cast_iron"
+    },
+    "I": {
+      "item": "create:shaft"
+    },
+    "_": {
+      "item": "tfc:metal/ingot/cast_iron"
+    }
+  },
+  "pattern": [
+    "__ ",
+    "#I,",
+    "__ "
+  ],
+  "result": {
+    "count": 4,
+    "item": "railways:link_and_pin"
+  },
+  "show_notification": true
+}

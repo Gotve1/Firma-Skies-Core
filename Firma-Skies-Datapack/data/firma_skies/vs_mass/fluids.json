@@ -1,0 +1,10 @@
+[
+  {
+    "block": "tfc:fluid/river_water",
+    "mass": 1000
+  },
+  {
+    "block": "tfc:spring_water",
+    "mass": 3920
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "tfc:powder/flux"
+    },
+    "I": {
+      "item": "tfc:metal/sheet/wrought_iron"
+    },
+    "K": {
+      "item": "tfc:metal/ingot/wrought_iron"
+    }
+  },
+  "pattern": [
+    " K ",
+    "III",
+    " G "
+  ],
+  "result": {
+    "item": "createbigcannons:wrought_iron_cannon_end"
+  },
+  "show_notification": true
+}

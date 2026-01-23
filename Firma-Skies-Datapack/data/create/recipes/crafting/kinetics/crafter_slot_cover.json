@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tfc:metal/sheet/brass"
+    }
+  ],
+  "result": {
+    "item": "create:crafter_slot_cover"
+  },
+  "show_notification": true
+}

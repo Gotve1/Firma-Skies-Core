@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:rock/raw/diorite"
+    }
+  ],
+  "processingTime": 160,
+  "results": [
+    {
+      "chance": 0.5,
+      "item": "tfc:rock/cobble/diorite"
+    },
+    {
+      "chance": 0.03,
+      "item": "minecraft:quartz"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:rock/cobble/granite"
+    }
+  ],
+  "processingTime": 160,
+  "results": [
+    {
+      "item": "tfc:rock/gravel/granite"
+    }
+  ]
+}

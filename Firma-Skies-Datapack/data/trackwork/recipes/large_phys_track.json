@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AAA",
+    "ABCB",
+    "ACDC",
+    "ABCB",
+    " AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:belt_connector"
+    },
+    "B": {
+      "item": "tfc:metal/rod/steel"
+    },
+    "C": {
+      "item": "tfc:metal/sheet/steel"
+    },
+    "D": {
+      "item": "create:large_cogwheel"
+    }
+  },
+  "result": {
+    "item": "trackwork:large_phys_track",
+    "count": 2
+  }
+}

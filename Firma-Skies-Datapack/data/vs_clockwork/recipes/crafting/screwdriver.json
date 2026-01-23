@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "tfc:metal/rod/zinc"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  N",
+    " N ",
+    "S  "
+  ],
+  "result": {
+    "item": "vs_clockwork:screwdriver"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "create:brass_casing"
+    },
+    "C": {
+      "item": "vs_sails:rope"
+    },
+    "I": {
+      "item": "tfc:metal/fish_hook/copper"
+    }
+  },
+  "pattern": [
+    "B",
+    "C",
+    "I"
+  ],
+  "result": {
+    "item": "create:elevator_pulley"
+  },
+  "show_notification": true
+}

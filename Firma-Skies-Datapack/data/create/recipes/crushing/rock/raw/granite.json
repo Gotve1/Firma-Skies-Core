@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:rock/raw/granite"
+    }
+  ],
+  "processingTime": 160,
+  "results": [
+    {
+      "chance": 0.9,
+      "item": "tfc:rock/cobble/granite"
+    }
+  ]
+}

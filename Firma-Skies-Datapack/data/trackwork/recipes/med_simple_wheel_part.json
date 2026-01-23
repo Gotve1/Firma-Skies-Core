@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AAA ",
+    "ADCDA",
+    "ACBCA",
+    "ADCDA",
+    " AAA "
+  ],
+  "key": {
+    "A": {
+      "item": "create:belt_connector"
+    },
+    "B": {
+      "item": "create:large_cogwheel"
+    },
+    "C": {
+      "item": "tfc:metal/rod/brass"
+    },
+    "D": {
+      "item": "tfc:metal/sheet/brass"
+    }
+  },
+  "result": {
+    "item": "trackwork:med_simple_wheel_part",
+    "count": 2
+  }
+}

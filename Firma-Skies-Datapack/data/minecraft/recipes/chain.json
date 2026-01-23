@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/sheet/copper"
+  },
+  "result": {
+    "item": "minecraft:chain",
+    "count": 16
+  },
+  "tier": 1,
+  "rules": [
+    "hit_any",
+    "hit_any",
+    "draw_last"
+  ]
+}

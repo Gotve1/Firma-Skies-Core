@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tfc:metal/ingot/wrought_iron"
+    },
+    "+": {
+      "item": "minecraft:hay_block"
+    },
+    ".": {
+      "item": "tfc:metal/rod/wrought_iron"
+    }
+  },
+  "pattern": [
+    ".#.",
+    " + "
+  ],
+  "result": {
+    "item": "railways:smokestack_caboosestyle"
+  },
+  "show_notification": true
+}

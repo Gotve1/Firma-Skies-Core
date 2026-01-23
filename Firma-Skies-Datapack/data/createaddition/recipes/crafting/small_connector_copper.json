@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rods/copper"
+    },
+    {
+      "item": "create:andesite_alloy"
+    },
+    {
+      "item": "tfc:glue"
+    }
+  ],
+  "result": {
+    "item": "createaddition:connector",
+    "count": 2
+  }
+}

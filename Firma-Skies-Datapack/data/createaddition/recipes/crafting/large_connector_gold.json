@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfc:metal/rod/copper"
+    },
+    {
+      "item": "create:andesite_alloy"
+    },
+    {
+      "item": "createaddition:iron_wire"
+    },
+    {
+      "item": "tfc:glue"
+    }
+  ],
+  "result": {
+    "item": "createaddition:large_connector",
+    "count": 2
+  }
+}

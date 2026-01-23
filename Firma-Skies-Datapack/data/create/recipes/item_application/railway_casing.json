@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "create:brass_casing"
+    },
+    {
+      "item": "tfc:metal/sheet/cast_iron"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:railway_casing"
+    }
+  ]
+}

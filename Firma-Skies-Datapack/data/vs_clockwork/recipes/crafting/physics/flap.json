@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WW",
+    "OO"
+  ],
+  "key": {
+    "W": {
+      "item": "create:white_sail"
+    },
+    "O": {
+      "item": "tfc:metal/rod/wrought_iron"
+    }
+  },
+  "result": {
+    "item": "vs_clockwork:flap",
+    "count": 4
+  }
+}

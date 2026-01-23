@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:metal/sheet/copper"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "createbigcannons:autocannon_cartridge_sheet"
+    }
+  ]
+}

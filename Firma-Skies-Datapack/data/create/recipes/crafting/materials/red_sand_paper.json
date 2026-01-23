@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "tfc:powder/flux"
+    },
+    {
+      "item": "tfc:glue"
+    },
+    {
+      "tag": "minecraft:sand"
+    }
+  ],
+  "result": {
+    "item": "create:red_sand_paper"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "tfc:lumber"
+    },
+    "C": {
+      "tag": "minecraft:wooden_trapdoors"
+    }
+  },
+  "pattern": [
+    "ACA",
+    "A A",
+    "AAA"
+  ],
+  "result": {
+    "item": "minecraft:barrel"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "tfc:metal/sheet/brass"
+    },
+    "I": {
+      "tag": "createbigcannons:inexpensive_sheet"
+    }
+  },
+  "pattern": [
+    " B ",
+    "I I",
+    "III"
+  ],
+  "result": {
+    "item": "createbigcannons:autocannon_ammo_container"
+  },
+  "show_notification": true
+}

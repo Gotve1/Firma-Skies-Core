@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "tfc:lens"
+    },
+    "P": {
+      "item": "tfc:metal/rod/brass"
+    },
+    "S": {
+      "item": "tfc:wool_yarn"
+    }
+  },
+  "pattern": [
+    " S ",
+    "GPG"
+  ],
+  "result": {
+    "item": "create:goggles"
+  },
+  "show_notification": true
+}

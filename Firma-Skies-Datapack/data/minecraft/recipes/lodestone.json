@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "forge:stone_bricks"
+    },
+    "C": {
+      "tag": "tfc:magnetic_rocks"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ACA",
+    "AAA"
+  ],
+  "result": {
+    "item": "minecraft:lodestone"
+  },
+  "show_notification": true
+}

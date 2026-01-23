@@ -1,0 +1,37 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "I I",
+    "HRH",
+    "PMP",
+    "PCP",
+    " L "
+  ],
+  "key": {
+    "L": {
+      "item": "tfc:metal/ingot/brass"
+    },
+    "C": {
+      "item": "tfc:metal/ingot/copper"
+    },
+    "R": {
+      "item": "tfc:lens"
+    },
+    "H": {
+      "item": "create:brass_hand"
+    },
+    "P": {
+      "item": "create:fluid_pipe"
+    },
+    "I": {
+      "item": "tfc:metal/rod/zinc"
+    },
+    "M": {
+      "item": "create:mechanical_pump"
+    }
+  },
+  "result": {
+    "item": "vs_clockwork:gravitron"
+  },
+  "acceptMirrored": false
+}

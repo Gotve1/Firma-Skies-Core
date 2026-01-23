@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "create:depot"
+    },
+    "A": {
+      "item": "tfc:brass_mechanisms"
+    },
+    "I": {
+      "item": "create:shaft"
+    }
+  },
+  "pattern": [
+    " D ",
+    "IAI"
+  ],
+  "result": {
+    "item": "create:weighted_ejector"
+  },
+  "show_notification": true
+}

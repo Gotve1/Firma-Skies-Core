@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:metal/sheet/wrought_iron"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": "createbigcannons:autocannon_cartridge_sheet"
+    }
+  ]
+}

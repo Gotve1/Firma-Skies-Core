@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AAA ",
+    "ADCDA",
+    "ACBCA",
+    "ADCDA",
+    " AAA "
+  ],
+  "key": {
+    "A": {
+      "item": "create:belt_connector"
+    },
+    "B": {
+      "item": "create:large_cogwheel"
+    },
+    "C": {
+      "item": "tfc:metal/rod/cast_iron"
+    },
+    "D": {
+      "item": "tfc:metal/sheet/cast_iron"
+    }
+  },
+  "result": {
+    "item": "trackwork:simple_wheel_part",
+    "count": 2
+  }
+}

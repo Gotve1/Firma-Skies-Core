@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "tfc:metal/sheet/brass"
+    },
+    "I": {
+      "item": "tfc:metal/rod/zinc"
+    },
+    "V": {
+      "tag": "create:valve_handles"
+    },
+    "Z": {
+      "item": "create:fluid_tank"
+    }
+  },
+  "pattern": [
+    " IV",
+    "BZB",
+    " B "
+  ],
+  "result": {
+    "item": "createbigcannons:cannon_welder"
+  },
+  "show_notification": true
+}

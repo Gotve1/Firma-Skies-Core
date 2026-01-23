@@ -1,0 +1,33 @@
+{
+  "type": "tfc:damage_inputs_shaped_crafting",
+  "recipe": {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "C": {
+        "item": "create:cogwheel"
+      },
+      "L": {
+        "tag": "forge:leather"
+      },
+      "S": {
+        "item": "tfc:metal/sheet/brass"
+      },
+      "W": {
+        "tag": "forge:chests/wooden"
+      },
+      "I": {
+        "tag": "tfc:chisels"
+      }
+    },
+    "pattern": [
+      " CI",
+      "SWS",
+      " L "
+    ],
+    "result": {
+      "item": "create:brown_toolbox"
+    },
+    "show_notification": true
+  }
+}

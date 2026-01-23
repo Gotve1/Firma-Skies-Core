@@ -1,0 +1,89 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tfc:metal/sheet/brass"
+  },
+  "loops": 3,
+  "results": [
+    {
+      "chance": 120.0,
+      "item": "create_connected:control_chip"
+    },
+    {
+      "chance": 8.0,
+      "item": "minecraft:redstone"
+    },
+    {
+      "chance": 8.0,
+      "item": "create:electron_tube"
+    },
+    {
+      "chance": 5.0,
+      "item": "tfc:metal/sheet/brass"
+    },
+    {
+      "chance": 3.0,
+      "item": "tfc:metal/rod/brass"
+    },
+    {
+      "chance": 2.0,
+      "item": "create:andesite_alloy"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:compass"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_connected:incomplete_control_chip"
+        },
+        {
+          "item": "create:electron_tube"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_connected:incomplete_control_chip"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_connected:incomplete_control_chip"
+        },
+        {
+          "item": "minecraft:redstone"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_connected:incomplete_control_chip"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create_connected:incomplete_control_chip"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_connected:incomplete_control_chip"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "create_connected:incomplete_control_chip"
+  }
+}

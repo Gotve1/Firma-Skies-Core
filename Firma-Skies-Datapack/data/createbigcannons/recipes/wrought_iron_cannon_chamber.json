@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "tfc:powder/flux"
+    },
+    "I": {
+      "item": "tfc:metal/sheet/wrought_iron"
+    }
+  },
+  "pattern": [
+    " I ",
+    "IGI",
+    " I "
+  ],
+  "result": {
+    "item": "createbigcannons:wrought_iron_cannon_chamber"
+  },
+  "show_notification": true
+}

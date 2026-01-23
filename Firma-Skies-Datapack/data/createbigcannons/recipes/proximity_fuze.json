@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "tfc:metal/rod/copper"
+    },
+    "C": {
+      "tag": "createbigcannons:gems_quartz"
+    },
+    "I": {
+      "item": "tfc:metal/sheet/zinc"
+    },
+    "R": {
+      "tag": "createbigcannons:dusts_redstone"
+    }
+  },
+  "pattern": [
+    " A ",
+    "RCR",
+    " I "
+  ],
+  "result": {
+    "count": 4,
+    "item": "createbigcannons:proximity_fuze"
+  },
+  "show_notification": true
+}

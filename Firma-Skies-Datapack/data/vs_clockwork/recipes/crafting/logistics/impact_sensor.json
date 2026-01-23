@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create:content_observer"
+    },
+    {
+      "item": "tfc:metal/ingot/zinc"
+    },
+    {
+      "tag": "forge:string"
+    }
+  ],
+  "result": {
+    "item": "vs_clockwork:impact_sensor"
+  },
+  "show_notification": true
+}

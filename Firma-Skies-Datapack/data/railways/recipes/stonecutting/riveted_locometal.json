@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "tfc:metal/double_ingot/cast_iron"
+  },
+  "result": "railways:riveted_locometal"
+}

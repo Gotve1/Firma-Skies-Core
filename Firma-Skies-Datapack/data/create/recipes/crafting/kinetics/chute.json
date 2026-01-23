@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "tfc:metal/sheet/copper"
+    },
+    "I": {
+      "item": "tfc:metal/ingot/copper"
+    }
+  },
+  "pattern": [
+    "A",
+    "I",
+    "A"
+  ],
+  "result": {
+    "count": 4,
+    "item": "create:chute"
+  },
+  "show_notification": true
+}

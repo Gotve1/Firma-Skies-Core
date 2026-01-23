@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "tfc:metal/sheet/brass"
+    },
+    "I": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "create_tweaked_controllers:tweaked_linked_controller"
+    }
+  },
+  "pattern": [
+    " C ",
+    "I#I"
+  ],
+  "result": {
+    "item": "drivebywire:tweaked_controller_hub"
+  }
+}

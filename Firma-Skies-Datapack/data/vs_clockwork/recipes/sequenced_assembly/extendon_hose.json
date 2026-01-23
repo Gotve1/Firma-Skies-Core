@@ -1,0 +1,91 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "vs_clockwork:duct"
+  },
+  "loops": 5,
+  "results": [
+    {
+      "chance": 120.0,
+      "item": "vs_clockwork:extendon_hose"
+    },
+    {
+      "chance": 8.0,
+      "item": "vs_clockwork:duct"
+    },
+    {
+      "chance": 5.0,
+      "item": "tfc:metal/sheet/zinc"
+    },
+    {
+      "chance": 2.0,
+      "item": "create:chute"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "vs_clockwork:incomplete_hose_spool"
+        },
+        {
+          "tag": "forge:leather"
+        }
+      ],
+      "results": [
+        {
+          "item": "vs_clockwork:incomplete_hose_spool"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "vs_clockwork:incomplete_hose_spool"
+        },
+        {
+          "tag": "forge:leather"
+        }
+      ],
+      "results": [
+        {
+          "item": "vs_clockwork:incomplete_hose_spool"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "vs_clockwork:incomplete_hose_spool"
+        },
+        {
+          "item": "tfc:metal/sheet/zinc"
+        }
+      ],
+      "results": [
+        {
+          "item": "vs_clockwork:incomplete_hose_spool"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "vs_clockwork:incomplete_hose_spool"
+        }
+      ],
+      "results": [
+        {
+          "item": "vs_clockwork:incomplete_hose_spool"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "vs_clockwork:incomplete_hose_spool"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:metal/sheet/brass"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "createbigcannons:autocannon_cartridge_sheet"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "=": {
+      "item": "tfc:metal/ingot/cast_iron"
+    },
+    "T": {
+      "item": "create:railway_casing"
+    }
+  },
+  "pattern": [
+    "=",
+    "#",
+    "T"
+  ],
+  "result": {
+    "item": "railways:track_coupler"
+  },
+  "show_notification": true
+}

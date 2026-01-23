@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "N",
+    "P"
+  ],
+  "key": {
+    "P": {
+      "tag": "tfc:lumber"
+    },
+    "N": {
+      "tag": "tfc:can_be_lit_on_torch"
+    }
+  },
+  "result": {
+    "item": "createaddition:spool",
+    "count": 2
+  }
+}

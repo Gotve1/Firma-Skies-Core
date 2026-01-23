@@ -1,0 +1,26 @@
+{
+  "type": "tfc:damage_inputs_shaped_crafting",
+  "recipe": {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "C": {
+        "item": "tfc:metal/sheet/copper"
+      },
+      "P": {
+        "item": "tfc:metal/rod/brass"
+      },
+      "I": {
+        "tag": "tfc:chisels"
+      }
+    },
+    "pattern": [
+      "PI",
+      "C "
+    ],
+    "result": {
+      "item": "create:steam_whistle"
+    },
+    "show_notification": true
+  }
+}

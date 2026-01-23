@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AAA",
+    "ABCB",
+    "ACDC",
+    "ABCB",
+    " AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:belt_connector"
+    },
+    "B": {
+      "item": "tfc:metal/rod/cast_iron"
+    },
+    "C": {
+      "item": "tfc:metal/sheet/cast_iron"
+    },
+    "D": {
+      "item": "create:cogwheel"
+    }
+  },
+  "result": {
+    "item": "trackwork:med_phys_track",
+    "count": 2
+  }
+}

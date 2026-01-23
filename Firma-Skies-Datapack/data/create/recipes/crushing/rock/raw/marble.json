@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:rock/raw/marble"
+    }
+  ],
+  "processingTime": 160,
+  "results": [
+    {
+      "chance": 0.5,
+      "item": "tfc:rock/cobble/marble"
+    },
+    {
+      "chance": 0.05,
+      "item": "minecraft:quartz"
+    }
+  ]
+}

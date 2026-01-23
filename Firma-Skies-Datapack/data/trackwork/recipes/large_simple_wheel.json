@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A ",
+    "BD"
+  ],
+  "key": {
+    "A": {
+      "item": "createbigcannons:recoil_spring"
+    },
+    "B": {
+      "item": "create:vertical_gearbox"
+    },
+    "D": {
+      "item": "trackwork:large_simple_wheel_part"
+    }
+  },
+  "result": {
+    "item": "trackwork:large_simple_wheel",
+    "count": 1
+  }
+}

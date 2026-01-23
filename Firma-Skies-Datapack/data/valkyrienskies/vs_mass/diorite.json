@@ -1,0 +1,42 @@
+[
+  {
+    "block": "tfc:rock/cobble/diorite",
+    "mass": 2400.0,
+    "friction": 0.8
+  },
+  {
+    "block": "tfc:rock/cobble/diorite_stairs",
+    "mass": 1800.0,
+    "friction": 0.8
+  },
+  {
+    "block": "tfc:rock/cobble/diorite__slab",
+    "mass": 1200.0,
+    "friction": 0.8
+  },
+  {
+    "block": "tfc:rock/cobble/diorite_wall",
+    "mass": 1200.0,
+    "friction": 0.8
+  },
+  {
+    "block": "tfc:rock/cobble_mossy/diorite",
+    "mass": 2400.0,
+    "friction": 0.8
+  },
+  {
+    "block": "tfc:rock/cobble_mossy/diorite_stairs",
+    "mass": 1800.0,
+    "friction": 0.8
+  },
+  {
+    "block": "tfc:rock/cobble_mossy/diorite_slab",
+    "mass": 1200.0,
+    "friction": 0.8
+  },
+  {
+    "block": "tfc:rock/cobble_mossy/diorite_wall",
+    "mass": 1200.0,
+    "friction": 0.8
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tfc:metal/ingot/cast_iron"
+    },
+    "+": {
+      "item": "minecraft:hay_block"
+    }
+  },
+  "pattern": [
+    "#+#"
+  ],
+  "result": {
+    "item": "railways:smokestack_streamlined"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "CDC",
+    "BCB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:belt_connector"
+    },
+    "B": {
+      "item": "tfc:metal/rod/brass"
+    },
+    "C": {
+      "item": "tfc:metal/sheet/brass"
+    },
+    "D": {
+      "item": "create:cogwheel"
+    }
+  },
+  "result": {
+    "item": "trackwork:suspension_track",
+    "count": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "createbigcannons:guncotton"
+    },
+    {
+      "item": "tfc:glue"
+    },
+    {
+      "tag": "createbigcannons:nitro_acidifiers"
+    },
+    {
+      "amount": 150,
+      "fluid": "minecraft:water",
+      "nbt": {}
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "count": 4,
+      "item": "createbigcannons:congealed_nitro"
+    }
+  ]
+}

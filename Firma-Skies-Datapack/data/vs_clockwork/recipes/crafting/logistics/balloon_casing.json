@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BWB",
+    "W W",
+    "BWB"
+  ],
+  "key": {
+    "B": {
+      "tag": "tfc:can_be_lit_on_torch"
+    },
+    "W": {
+      "item": "vs_sails:sail_block"
+    }
+  },
+  "result": {
+    "count": 12,
+    "item": "vs_clockwork:balloon_casing"
+  }
+}

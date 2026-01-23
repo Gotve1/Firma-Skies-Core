@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tfc:metal/ingot/cast_iron"
+    },
+    "+": {
+      "item": "minecraft:hay_block"
+    },
+    ".": {
+      "tag": "railways:internal/nuggets/iron_nuggets"
+    }
+  },
+  "pattern": [
+    ".#.",
+    "#+#"
+  ],
+  "result": {
+    "item": "railways:smokestack_woodburner"
+  },
+  "show_notification": true
+}

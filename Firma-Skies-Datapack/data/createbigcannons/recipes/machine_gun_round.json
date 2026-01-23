@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "tag": "createbigcannons:inexpensive_rod"
+    },
+    "C": {
+      "item": "createbigcannons:empty_machine_gun_round"
+    },
+    "P": {
+      "tag": "createbigcannons:gunpowder"
+    }
+  },
+  "pattern": [
+    "B",
+    "P",
+    "C"
+  ],
+  "result": {
+    "count": 2,
+    "item": "createbigcannons:machine_gun_round"
+  },
+  "show_notification": true
+}

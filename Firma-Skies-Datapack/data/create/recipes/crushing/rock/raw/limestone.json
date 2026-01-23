@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:rock/raw/limestone"
+    }
+  ],
+  "processingTime": 160,
+  "results": [
+    {
+      "chance": 0.5,
+      "item": "tfc:rock/cobble/limestone"
+    },
+    {
+      "chance": 0.7,
+      "item": "tfc:ore/gypsum"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:shaft"
+  },
+  "loops": 5,
+  "results": [
+    {
+      "chance": 120.0,
+      "item": "vs_clockwork:universal_shaft_item"
+    },
+    {
+      "chance": 8.0,
+      "item": "vs_clockwork:duct"
+    },
+    {
+      "chance": 8.0,
+      "item": "minecraft:leather"
+    },
+    {
+      "chance": 5.0,
+      "item": "tfc:metal/sheet/zinc"
+    },
+    {
+      "chance": 2.0,
+      "item": "create:shaft"
+    },
+    {
+      "chance": 2.0,
+      "item": "create:chute"
+    },
+    {
+      "item": "create:industrial_iron_block"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "vs_clockwork:incomplete_telescoping_mechanism"
+        },
+        {
+          "tag": "forge:leather"
+        }
+      ],
+      "results": [
+        {
+          "item": "vs_clockwork:incomplete_telescoping_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "vs_clockwork:incomplete_telescoping_mechanism"
+        },
+        {
+          "tag": "forge:leather"
+        }
+      ],
+      "results": [
+        {
+          "item": "vs_clockwork:incomplete_telescoping_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "vs_clockwork:incomplete_telescoping_mechanism"
+        },
+        {
+          "item": "tfc:metal/sheet/zinc"
+        }
+      ],
+      "results": [
+        {
+          "item": "vs_clockwork:incomplete_telescoping_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "vs_clockwork:incomplete_telescoping_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "vs_clockwork:incomplete_telescoping_mechanism"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "vs_clockwork:incomplete_telescoping_mechanism"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "tfc:metal/rod/brass"
+    },
+    "S": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "ASA"
+  ],
+  "result": {
+    "item": "create:attribute_filter"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "tag": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    }
+  ],
+  "result": {
+    "item": "createbigcannons:casting_sand"
+  }
+}

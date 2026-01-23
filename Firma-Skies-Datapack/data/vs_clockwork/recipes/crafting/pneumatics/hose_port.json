@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "tfc:metal/sheet/cast_iron"
+    },
+    "N": {
+      "item": "tfc:metal/rod/zinc"
+    },
+    "K": {
+      "tag": "forge:leather"
+    },
+    "C": {
+      "item": "create:industrial_iron_block"
+    },
+    "D": {
+      "item": "vs_clockwork:duct"
+    }
+  },
+  "pattern": [
+    " K ",
+    "NPN",
+    "DC "
+  ],
+  "result": {
+    "item": "vs_clockwork:hose_port"
+  },
+  "show_notification": true
+}

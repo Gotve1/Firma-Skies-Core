@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACC",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:note_block"
+    },
+    "B": {
+      "item": "create:metal_bracket"
+    },
+    "C": {
+      "item": "tfc:metal/rod/brass"
+    }
+  },
+  "result": {
+    "item": "trackwork:horn",
+    "count": 1
+  }
+}

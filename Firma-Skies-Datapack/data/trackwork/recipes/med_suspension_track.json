@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "CDC",
+    "BCB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:belt_connector"
+    },
+    "B": {
+      "item": "tfc:metal/rod/cast_iron"
+    },
+    "C": {
+      "item": "tfc:metal/sheet/cast_iron"
+    },
+    "D": {
+      "item": "create:large_cogwheel"
+    }
+  },
+  "result": {
+    "item": "trackwork:med_suspension_track",
+    "count": 2
+  }
+}

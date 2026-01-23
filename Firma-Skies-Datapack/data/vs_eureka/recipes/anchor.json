@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IiI",
+    " i ",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "tfc:metal/ingot/cast_iron"
+    },
+    "I": {
+      "item": "tfc:metal/rod/cast_iron"
+    }
+  },
+  "result": {
+    "item": "vs_eureka:anchor",
+    "count": 1
+  }
+}

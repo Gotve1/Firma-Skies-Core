@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "createbigcannons:gunpowder_pinch"
+    },
+    {
+      "item": "tfc:powder/sylvite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "createbigcannons:tracer_tip"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "D",
+    "C"
+  ],
+  "key": {
+    "D": {
+      "item": "vs_clockwork:duct"
+    },
+    "C": {
+      "item": "create:industrial_iron_block"
+    }
+  },
+  "result": {
+    "item": "vs_clockwork:coal_burner"
+  },
+  "show_notification": true
+}

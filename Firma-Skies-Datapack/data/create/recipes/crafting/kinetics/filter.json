@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "S": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "ASA"
+  ],
+  "result": {
+    "item": "create:filter"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "#": {
+      "item": "railways:purple_slashed_locometal"
+    },
+    "/": {
+      "item": "create:shaft"
+    },
+    "u": {
+      "item": "create_connected:fluid_vessel"
+    }
+  },
+  "pattern": [
+    "  #  ",
+    " #u# ",
+    "#///#",
+    " #/# ",
+    "  #  "
+  ],
+  "result": {
+    "count": 4,
+    "item": "railways:purple_locometal_boiler"
+  }
+}
